@@ -1,4 +1,4 @@
-const container = document.querySelector('.container'),
+const container = document.querySelector('span'),
   Input = document.querySelector('.form input'),
   btn = container.querySelector('.form button'),
   Img = container.querySelector('.qr-code img');
