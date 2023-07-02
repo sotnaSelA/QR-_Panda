@@ -1,4 +1,4 @@
-Gerador de QR Code
+Gerador de QR Code <br>
 Aplicação feita para gerar Codigos QR.
 
 ✨ Tecnologias
